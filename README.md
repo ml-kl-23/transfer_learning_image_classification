@@ -1,9 +1,10 @@
 # transfer_learning_image_classification
 
+This example is based on the model MobileNetV2. 
+
+
 In the python console:
 
-1. Run the file 
+1. py classify_images.py 
 
-classify_images.py 
-
-2. Paste the link and test with images under folder /test
+2. Paste the link in a browser and test with images under folder /test
